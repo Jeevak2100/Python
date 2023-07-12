@@ -1,11 +1,11 @@
 # Topics
 ### Focused on Object Oriented Programming (OOP) concepts in Python
-à classes (types) and objects
-à single inheritance
-à functions, methods and properties
-à descriptors
-à enumerations
-à exceptions
+- classes (types) and objects
+- single inheritance
+- functions, methods and properties
+- descriptors
+- enumerations
+- exceptions
 
 # Pre-requist:
 Knowledge of functional programming in Python:
