@@ -1,5 +1,4 @@
-# Fundamentals
-## Python Type Hierarchy: 
+# Python Type Hierarchy: 
 - Numbers: 
     - Integral: Integers, Booleans,
     - Non-Integral:  Floats (c doubles),**Complex** ,Decimals, Fractions
