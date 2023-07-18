@@ -10,3 +10,20 @@
 
   - Callables: User-Defined Functions, Generators, classes, Instance Methods, Class Instances (__call__()), Built-in Functions (e.g. len(), open()), Built-in Methods (e.g. my_list.append(x))
   - Singletons: None, NotImplemented, Ellipsis
+
+
+- Single underscore for a variable(_my_var): 
+	Variable starting with is a private variable/internal use (does not get imported in a module with statement from module import *)
+
+- double underscore for a variable(__my_var): Userd for inheritance using dunder in front
+- double underscore both side(__my_var__): System defined names:Eg __init__
+
+### Naming convention: 
+- Packages: shot, lowercase, no underscores
+- Modules: Shot, lowercase with underscores
+- Classes: CapWords Start(CamelCase)
+- Function: lowercase + underscores
+- Variables: lowercase + underscores
+- Constants: All upper case + underscores
+
+  
